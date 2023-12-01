@@ -1,11 +1,11 @@
 import './App.css';
 import React from 'react';
+import SammyTheShark from './images/small-profile.jpeg'
 
 function App() {
   return (
     <div>
-      <h1>Hello everybody</h1>
-      <p>Welcome to the show</p>
+      <img src={SammyTheShark} alt="Sammy the Shark, DigitalOcean's mascot"/>
     </div>
   );
 }
