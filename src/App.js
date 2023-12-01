@@ -4,11 +4,12 @@ import SammyTheShark from './images/small-profile.jpeg'
 
 function App() {
   return (
-    <div>
-      <img src={SammyTheShark} alt="Sammy the Shark, DigitalOcean's mascot"/>
-
-    </div>
-  );
+    <>
+      <div class="div-1"></div>
+      <div class="div-2"></div>
+      <div class="div-3"></div>
+    </>
+  )
 }
 
-export default App;
+export default App
