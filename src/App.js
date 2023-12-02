@@ -1,13 +1,13 @@
 import './App.css';
 import React from 'react';
-import SammyTheShark from './images/small-profile.jpeg'
 
 function App() {
   return (
     <>
-      <div class="div-1"></div>
-      <div class="div-2"></div>
-      <div class="div-3"></div>
+      <div class="yellow-div">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+      </div>
+      <div class="blue-div"></div>
     </>
   )
 }

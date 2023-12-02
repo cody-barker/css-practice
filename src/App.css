@@ -1,0 +1,13 @@
+.yellow-div {
+  background-color:yellow;
+  width: 500px;
+  padding: 25px;
+  border: 12px double red;
+  margin: 200px;
+}
+
+.blue-div {
+  height:100px;
+  width:100px;
+  background-color: blue;
+}
